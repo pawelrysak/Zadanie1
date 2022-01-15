@@ -14,3 +14,10 @@ Aplikacja bazuje na przykładzie
 Sample value from config service!
 Config:
 Current Configuration: 10422313213
+
+Instrukcja uruchomienia:
+Polecenie npm i zastosowac w client, server, worker, config_api
+docker-compose build
+docker-compose up
+docker-compose down -v
+docker-compose down 
